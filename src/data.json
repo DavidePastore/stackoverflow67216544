@@ -1,0 +1,46 @@
+{
+    "variants": [
+        {
+            "variant_code": "1",
+            "price": 12,
+            "discount": 12,
+            "height": 1,
+            "longitude": 1,
+            "width": 1,
+            "weight": 1,
+            "package_height": 1,
+            "package_longitude": 1,
+            "package_width": 1,
+            "package_weight": 11,
+            "stock": 1
+        },
+        {
+            "variant_code": "2",
+            "price": 12,
+            "discount": 12,
+            "height": 1,
+            "longitude": 1,
+            "width": 1,
+            "weight": 1,
+            "package_height": 1,
+            "package_longitude": 1,
+            "package_width": 1,
+            "package_weight": 11,
+            "stock": 1
+        },
+        {
+            "variant_code": "3",
+            "price": 12,
+            "discount": 12,
+            "height": 1,
+            "longitude": 1,
+            "width": 1,
+            "weight": 1,
+            "package_height": 1,
+            "package_longitude": 1,
+            "package_width": 1,
+            "package_weight": 11,
+            "stock": 1
+        }
+    ]
+}

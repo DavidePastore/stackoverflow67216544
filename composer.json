@@ -1,0 +1,6 @@
+{
+    "name": "davidepastore/stackoverflow67216544",
+    "require": {
+        "respect/validation": "2.0.17"
+    }
+}
